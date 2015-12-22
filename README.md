@@ -1,10 +1,10 @@
 # Unity_GamePhysics
 This Repo contains all three Unity projects created throughout the Udemy course
 
-Each section contains Physics Scripts under the Assets/Scripts/ folders. 
+Each section contains Physics Scripts under the <b>Assets/Scripts/</b> folders. 
 
-Section02: Newton's Laws of Motion
+<b>Section02: Newton's Laws of Motion
 
-Section03: Rotation
+<b>Section03: Rotation
 
-Sectoin04: Friction
+<b>Sectoin04: Friction
